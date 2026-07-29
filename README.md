@@ -1,7 +1,8 @@
 ### Merhaba! 👋
 
 2002'den beri yazılım geliştiriyorum — ağırlıklı olarak Flutter ile uçtan uca mobil
-uygulamalar, PHP/Go ile backend ve gerçek zamanlı sistemler.
+uygulamalar, PHP/Go ile backend ve gerçek zamanlı sistemler. Şu an yeni mobil uygulamalar
+üzerinde çalışıyorum.
 
 Çalışmalarımın çoğu özel repolarda yürüyor. Burada paylaşabildiğim somut bir şey, Flutter
 framework'üne (Google) giden bir katkı: **[flutter/flutter#190172](https://github.com/flutter/flutter/pull/190172)**
